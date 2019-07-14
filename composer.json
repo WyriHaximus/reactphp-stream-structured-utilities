@@ -1,5 +1,5 @@
 {
-    "name": "wyrihaximus/react-stream-json",
+    "name": "wyrihaximus/react-stream-structured-utilities",
     "description": "Incremental JSON encoder writing to a react/stream",
     "license": "MIT",
     "authors": [
@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "WyriHaximus\\React\\Stream\\Json\\": "src/"
+            "WyriHaximus\\React\\Stream\\Structured\\Utilities\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "WyriHaximus\\React\\Tests\\Stream\\Json\\": "tests/"
+            "WyriHaximus\\React\\Tests\\Stream\\Structured\\Utilities\\": "tests/"
         }
     },
     "config": {
